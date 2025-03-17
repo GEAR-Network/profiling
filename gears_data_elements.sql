@@ -19,5 +19,17 @@ for example -- https://athena.ohdsi.org/search-terms/terms?query=delerium
 
 3. GENERATE DATA-ELEMENT SPECIFIC QUERIES USING "SPECIFICATIONS FOR QUERY" TAB IN gearss_data_dictionary_wOMOP.XLSX FILE
 
-TODO - repeat #1 for only GEARS concepts
+TODO - repeat #1 for only GEARS concepts only
+
+Column Titles
+-- Table Name
+-- Source Text String (may need to join to source-to-concept tables depending on implementation) 
+-- Source Concept ID 
+-- Standard Text String (need to join to vocabulary tables)
+-- Standard Concept ID
+-- Value as string (categorical responses only for measurement and observation table)
+-- Value as concept ID 
+-- Count of this source-standard pair in ED encounters
+
+
 */
