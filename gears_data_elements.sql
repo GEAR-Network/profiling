@@ -10,6 +10,8 @@ Column Titles
 -- Standard Concept ID
 -- Count of this source-standard pair in ED encounters
 
+* We will review 200 ordered by frequency
+
 SAVE AS CSV FILE eg. YU_source_standard_profiling.csv
 
 2. COUNTS OF GEARS CONCEPTS IN CONDITION, MEASUREMENT, AND OBSERVATION TABLES FOR ED VISITS (JOIN ON CONCEPT CODES FROM ATHENA THAT ANALYSTS LOOKUP)
